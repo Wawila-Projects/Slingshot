@@ -5,5 +5,7 @@ This project was built for a Compilers class in college. It serves to show the b
 
 
 <H2>Caveats</H2>
+
 1. It is built to run on an specific virtual machine to run it. It includes the libraries to show the print results and some other functions. It will be added later.
+
 2. It does not support classes or passing arrays as parameters. 
